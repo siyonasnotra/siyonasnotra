@@ -6,10 +6,11 @@
 ## 📌 About Me  
 - 🎓 **Master of Computer Applications @ CHRIST (Deemed to be University), Bangalore (2024 - Present)**  
 - 🏆 **Graduated with 94.1% in BCA from IINTM (GGSIPU), New Delhi**  
-- 💡 Passionate about **Machine Learning, Web Development, and IoT**  
+- 💡 Passionate about **Machine Learning, Web Development**  
 - 🛠️ Skilled in **Python, C/C++, JavaScript, React, Flask, Node.js, and MongoDB**  
 - 🌱 Exploring **Data Mining, Data Visualization, and IoT**  
-- 🏆 **Ranked 11th out of 250+ students in BCA**  
+- 🏆 **Ranked 11th out of 250+ students in BCA**
+- Always eager to learn something new and creative, lets collaborate and work together.
 
 ---
 
